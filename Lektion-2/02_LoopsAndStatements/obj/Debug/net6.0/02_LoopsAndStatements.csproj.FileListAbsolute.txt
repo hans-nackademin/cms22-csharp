@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\02_LoopsAndStatements\bin\Debug\net6.0\02_LoopsAndStatements.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\02_LoopsAndStatements\bin\Debug\net6.0\02_LoopsAndStatements.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\02_LoopsAndStatements\bin\Debug\net6.0\02_LoopsAndStatements.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\02_LoopsAndStatements\bin\Debug\net6.0\02_LoopsAndStatements.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\02_LoopsAndStatements\bin\Debug\net6.0\02_LoopsAndStatements.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\02_LoopsAndStatements\obj\Debug\net6.0\02_LoopsAndStatements.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\02_LoopsAndStatements\obj\Debug\net6.0\02_LoopsAndStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\02_LoopsAndStatements\obj\Debug\net6.0\02_LoopsAndStatements.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\02_LoopsAndStatements\obj\Debug\net6.0\02_LoopsAndStatements.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\02_LoopsAndStatements\obj\Debug\net6.0\02_LoopsAndStatements.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\02_LoopsAndStatements\obj\Debug\net6.0\02_LoopsAndStatements.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\02_LoopsAndStatements\obj\Debug\net6.0\refint\02_LoopsAndStatements.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\02_LoopsAndStatements\obj\Debug\net6.0\02_LoopsAndStatements.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\02_LoopsAndStatements\obj\Debug\net6.0\02_LoopsAndStatements.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\02_LoopsAndStatements\obj\Debug\net6.0\ref\02_LoopsAndStatements.dll

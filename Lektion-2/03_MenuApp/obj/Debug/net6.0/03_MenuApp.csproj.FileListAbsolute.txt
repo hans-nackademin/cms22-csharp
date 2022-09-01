@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\03_MenuApp\bin\Debug\net6.0\03_MenuApp.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\03_MenuApp\bin\Debug\net6.0\03_MenuApp.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\03_MenuApp\bin\Debug\net6.0\03_MenuApp.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\03_MenuApp\bin\Debug\net6.0\03_MenuApp.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\03_MenuApp\bin\Debug\net6.0\03_MenuApp.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\03_MenuApp\obj\Debug\net6.0\03_MenuApp.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\03_MenuApp\obj\Debug\net6.0\03_MenuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\03_MenuApp\obj\Debug\net6.0\03_MenuApp.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\03_MenuApp\obj\Debug\net6.0\03_MenuApp.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\03_MenuApp\obj\Debug\net6.0\03_MenuApp.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\03_MenuApp\obj\Debug\net6.0\03_MenuApp.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\03_MenuApp\obj\Debug\net6.0\refint\03_MenuApp.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\03_MenuApp\obj\Debug\net6.0\03_MenuApp.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\03_MenuApp\obj\Debug\net6.0\03_MenuApp.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\03_MenuApp\obj\Debug\net6.0\ref\03_MenuApp.dll

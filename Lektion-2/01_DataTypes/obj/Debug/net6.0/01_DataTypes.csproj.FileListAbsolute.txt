@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\01_DataTypes\bin\Debug\net6.0\01_DataTypes.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\01_DataTypes\bin\Debug\net6.0\01_DataTypes.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\01_DataTypes\bin\Debug\net6.0\01_DataTypes.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\01_DataTypes\bin\Debug\net6.0\01_DataTypes.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\01_DataTypes\bin\Debug\net6.0\01_DataTypes.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\01_DataTypes\obj\Debug\net6.0\01_DataTypes.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\01_DataTypes\obj\Debug\net6.0\01_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\01_DataTypes\obj\Debug\net6.0\01_DataTypes.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\01_DataTypes\obj\Debug\net6.0\01_DataTypes.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\01_DataTypes\obj\Debug\net6.0\01_DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\01_DataTypes\obj\Debug\net6.0\01_DataTypes.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\01_DataTypes\obj\Debug\net6.0\refint\01_DataTypes.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\01_DataTypes\obj\Debug\net6.0\01_DataTypes.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\01_DataTypes\obj\Debug\net6.0\01_DataTypes.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-2\01_DataTypes\obj\Debug\net6.0\ref\01_DataTypes.dll
