@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\02_ClassesAndMethods\bin\Debug\net6.0\02_ClassesAndMethods.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\02_ClassesAndMethods\bin\Debug\net6.0\02_ClassesAndMethods.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\02_ClassesAndMethods\bin\Debug\net6.0\02_ClassesAndMethods.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\02_ClassesAndMethods\bin\Debug\net6.0\02_ClassesAndMethods.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\02_ClassesAndMethods\bin\Debug\net6.0\02_ClassesAndMethods.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\02_ClassesAndMethods\obj\Debug\net6.0\02_ClassesAndMethods.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\02_ClassesAndMethods\obj\Debug\net6.0\02_ClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\02_ClassesAndMethods\obj\Debug\net6.0\02_ClassesAndMethods.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\02_ClassesAndMethods\obj\Debug\net6.0\02_ClassesAndMethods.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\02_ClassesAndMethods\obj\Debug\net6.0\02_ClassesAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\02_ClassesAndMethods\obj\Debug\net6.0\02_ClassesAndMethods.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\02_ClassesAndMethods\obj\Debug\net6.0\refint\02_ClassesAndMethods.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\02_ClassesAndMethods\obj\Debug\net6.0\02_ClassesAndMethods.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\02_ClassesAndMethods\obj\Debug\net6.0\02_ClassesAndMethods.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\02_ClassesAndMethods\obj\Debug\net6.0\ref\02_ClassesAndMethods.dll

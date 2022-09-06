@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\01_ListAndArrays\bin\Debug\net6.0\01_ListAndArrays.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\01_ListAndArrays\bin\Debug\net6.0\01_ListAndArrays.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\01_ListAndArrays\bin\Debug\net6.0\01_ListAndArrays.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\01_ListAndArrays\bin\Debug\net6.0\01_ListAndArrays.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\01_ListAndArrays\bin\Debug\net6.0\01_ListAndArrays.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\01_ListAndArrays\obj\Debug\net6.0\01_ListAndArrays.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\01_ListAndArrays\obj\Debug\net6.0\01_ListAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\01_ListAndArrays\obj\Debug\net6.0\01_ListAndArrays.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\01_ListAndArrays\obj\Debug\net6.0\01_ListAndArrays.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\01_ListAndArrays\obj\Debug\net6.0\01_ListAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\01_ListAndArrays\obj\Debug\net6.0\01_ListAndArrays.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\01_ListAndArrays\obj\Debug\net6.0\refint\01_ListAndArrays.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\01_ListAndArrays\obj\Debug\net6.0\01_ListAndArrays.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\01_ListAndArrays\obj\Debug\net6.0\01_ListAndArrays.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-3\01_ListAndArrays\obj\Debug\net6.0\ref\01_ListAndArrays.dll
