@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-4\02_GetterSetter\bin\Debug\net6.0\02_GetterSetter.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-4\02_GetterSetter\bin\Debug\net6.0\02_GetterSetter.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-4\02_GetterSetter\bin\Debug\net6.0\02_GetterSetter.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-4\02_GetterSetter\bin\Debug\net6.0\02_GetterSetter.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-4\02_GetterSetter\bin\Debug\net6.0\02_GetterSetter.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-4\02_GetterSetter\obj\Debug\net6.0\02_GetterSetter.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-4\02_GetterSetter\obj\Debug\net6.0\02_GetterSetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-4\02_GetterSetter\obj\Debug\net6.0\02_GetterSetter.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-4\02_GetterSetter\obj\Debug\net6.0\02_GetterSetter.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-4\02_GetterSetter\obj\Debug\net6.0\02_GetterSetter.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-4\02_GetterSetter\obj\Debug\net6.0\02_GetterSetter.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-4\02_GetterSetter\obj\Debug\net6.0\refint\02_GetterSetter.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-4\02_GetterSetter\obj\Debug\net6.0\02_GetterSetter.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-4\02_GetterSetter\obj\Debug\net6.0\02_GetterSetter.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-4\02_GetterSetter\obj\Debug\net6.0\ref\02_GetterSetter.dll

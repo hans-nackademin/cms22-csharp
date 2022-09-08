@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GrafiskApp/1.0.0": {
+        "dependencies": {
+          "00_Repetition": "1.0.0"
+        },
+        "runtime": {
+          "GrafiskApp.dll": {}
+        }
+      },
+      "00_Repetition/1.0.0": {
+        "runtime": {
+          "00_Repetition.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GrafiskApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "00_Repetition/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
