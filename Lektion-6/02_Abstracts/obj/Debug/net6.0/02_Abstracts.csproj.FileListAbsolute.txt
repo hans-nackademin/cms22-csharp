@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\02_Abstracts\bin\Debug\net6.0\02_Abstracts.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\02_Abstracts\bin\Debug\net6.0\02_Abstracts.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\02_Abstracts\bin\Debug\net6.0\02_Abstracts.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\02_Abstracts\bin\Debug\net6.0\02_Abstracts.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\02_Abstracts\bin\Debug\net6.0\02_Abstracts.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\02_Abstracts\obj\Debug\net6.0\02_Abstracts.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\02_Abstracts\obj\Debug\net6.0\02_Abstracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\02_Abstracts\obj\Debug\net6.0\02_Abstracts.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\02_Abstracts\obj\Debug\net6.0\02_Abstracts.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\02_Abstracts\obj\Debug\net6.0\02_Abstracts.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\02_Abstracts\obj\Debug\net6.0\02_Abstracts.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\02_Abstracts\obj\Debug\net6.0\refint\02_Abstracts.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\02_Abstracts\obj\Debug\net6.0\02_Abstracts.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\02_Abstracts\obj\Debug\net6.0\02_Abstracts.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\02_Abstracts\obj\Debug\net6.0\ref\02_Abstracts.dll

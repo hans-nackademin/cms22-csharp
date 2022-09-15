@@ -1,0 +1,17 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\03_FileManagement\bin\Debug\net6.0\03_FileManagement.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\03_FileManagement\bin\Debug\net6.0\03_FileManagement.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\03_FileManagement\bin\Debug\net6.0\03_FileManagement.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\03_FileManagement\bin\Debug\net6.0\03_FileManagement.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\03_FileManagement\bin\Debug\net6.0\03_FileManagement.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\03_FileManagement\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\03_FileManagement\obj\Debug\net6.0\03_FileManagement.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\03_FileManagement\obj\Debug\net6.0\03_FileManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\03_FileManagement\obj\Debug\net6.0\03_FileManagement.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\03_FileManagement\obj\Debug\net6.0\03_FileManagement.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\03_FileManagement\obj\Debug\net6.0\03_FileManagement.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\03_FileManagement\obj\Debug\net6.0\03_FileManagement.csproj.CopyComplete
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\03_FileManagement\obj\Debug\net6.0\03_FileManagement.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\03_FileManagement\obj\Debug\net6.0\refint\03_FileManagement.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\03_FileManagement\obj\Debug\net6.0\03_FileManagement.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\03_FileManagement\obj\Debug\net6.0\03_FileManagement.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\03_FileManagement\obj\Debug\net6.0\ref\03_FileManagement.dll

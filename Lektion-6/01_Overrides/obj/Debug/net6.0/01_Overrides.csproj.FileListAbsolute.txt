@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\01_Overrides\bin\Debug\net6.0\01_Overrides.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\01_Overrides\bin\Debug\net6.0\01_Overrides.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\01_Overrides\bin\Debug\net6.0\01_Overrides.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\01_Overrides\bin\Debug\net6.0\01_Overrides.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\01_Overrides\bin\Debug\net6.0\01_Overrides.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\01_Overrides\obj\Debug\net6.0\01_Overrides.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\01_Overrides\obj\Debug\net6.0\01_Overrides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\01_Overrides\obj\Debug\net6.0\01_Overrides.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\01_Overrides\obj\Debug\net6.0\01_Overrides.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\01_Overrides\obj\Debug\net6.0\01_Overrides.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\01_Overrides\obj\Debug\net6.0\01_Overrides.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\01_Overrides\obj\Debug\net6.0\refint\01_Overrides.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\01_Overrides\obj\Debug\net6.0\01_Overrides.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\01_Overrides\obj\Debug\net6.0\01_Overrides.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-6\01_Overrides\obj\Debug\net6.0\ref\01_Overrides.dll

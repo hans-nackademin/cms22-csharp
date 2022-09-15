@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LaPYEOehCFRRPSO/rRap+2t7ameeEw3k7fE24DQXQ8J/8Py1viS/almAYj0SsaU0gm1sitmLV4Ev4/WD3ksCXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\CMS22\\cms22-csharp\\Lektion-6\\03_FileManagement\\03_FileManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
