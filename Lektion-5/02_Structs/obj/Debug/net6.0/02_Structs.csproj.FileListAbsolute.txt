@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\02_Structs\bin\Debug\net6.0\02_Structs.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\02_Structs\bin\Debug\net6.0\02_Structs.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\02_Structs\bin\Debug\net6.0\02_Structs.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\02_Structs\bin\Debug\net6.0\02_Structs.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\02_Structs\bin\Debug\net6.0\02_Structs.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\02_Structs\obj\Debug\net6.0\02_Structs.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\02_Structs\obj\Debug\net6.0\02_Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\02_Structs\obj\Debug\net6.0\02_Structs.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\02_Structs\obj\Debug\net6.0\02_Structs.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\02_Structs\obj\Debug\net6.0\02_Structs.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\02_Structs\obj\Debug\net6.0\02_Structs.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\02_Structs\obj\Debug\net6.0\refint\02_Structs.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\02_Structs\obj\Debug\net6.0\02_Structs.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\02_Structs\obj\Debug\net6.0\02_Structs.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\02_Structs\obj\Debug\net6.0\ref\02_Structs.dll

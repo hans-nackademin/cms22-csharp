@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\06_Interfaces\bin\Debug\net6.0\06_Interfaces.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\06_Interfaces\bin\Debug\net6.0\06_Interfaces.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\06_Interfaces\bin\Debug\net6.0\06_Interfaces.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\06_Interfaces\bin\Debug\net6.0\06_Interfaces.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\06_Interfaces\bin\Debug\net6.0\06_Interfaces.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\06_Interfaces\obj\Debug\net6.0\06_Interfaces.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\06_Interfaces\obj\Debug\net6.0\06_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\06_Interfaces\obj\Debug\net6.0\06_Interfaces.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\06_Interfaces\obj\Debug\net6.0\06_Interfaces.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\06_Interfaces\obj\Debug\net6.0\06_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\06_Interfaces\obj\Debug\net6.0\06_Interfaces.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\06_Interfaces\obj\Debug\net6.0\refint\06_Interfaces.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\06_Interfaces\obj\Debug\net6.0\06_Interfaces.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\06_Interfaces\obj\Debug\net6.0\06_Interfaces.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-5\06_Interfaces\obj\Debug\net6.0\ref\06_Interfaces.dll
