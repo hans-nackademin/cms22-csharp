@@ -1,0 +1,5 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition\obj\Debug\net6.0\00_Repetition.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition\obj\Debug\net6.0\00_Repetition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition\obj\Debug\net6.0\00_Repetition.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition\obj\Debug\net6.0\00_Repetition.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition\obj\Debug\net6.0\00_Repetition.csproj.CoreCompileInputs.cache

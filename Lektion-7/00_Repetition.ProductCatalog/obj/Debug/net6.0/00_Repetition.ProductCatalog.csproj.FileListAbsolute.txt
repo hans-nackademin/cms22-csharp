@@ -1,0 +1,17 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition.ProductCatalog\bin\Debug\net6.0\00_Repetition.ProductCatalog.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition.ProductCatalog\bin\Debug\net6.0\00_Repetition.ProductCatalog.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition.ProductCatalog\bin\Debug\net6.0\00_Repetition.ProductCatalog.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition.ProductCatalog\bin\Debug\net6.0\00_Repetition.ProductCatalog.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition.ProductCatalog\bin\Debug\net6.0\00_Repetition.ProductCatalog.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition.ProductCatalog\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition.ProductCatalog\obj\Debug\net6.0\00_Repetition.ProductCatalog.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition.ProductCatalog\obj\Debug\net6.0\00_Repetition.ProductCatalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition.ProductCatalog\obj\Debug\net6.0\00_Repetition.ProductCatalog.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition.ProductCatalog\obj\Debug\net6.0\00_Repetition.ProductCatalog.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition.ProductCatalog\obj\Debug\net6.0\00_Repetition.ProductCatalog.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition.ProductCatalog\obj\Debug\net6.0\00_Repetition.ProductCatalog.csproj.CopyComplete
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition.ProductCatalog\obj\Debug\net6.0\00_Repetition.ProductCatalog.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition.ProductCatalog\obj\Debug\net6.0\refint\00_Repetition.ProductCatalog.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition.ProductCatalog\obj\Debug\net6.0\00_Repetition.ProductCatalog.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition.ProductCatalog\obj\Debug\net6.0\00_Repetition.ProductCatalog.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-7\00_Repetition.ProductCatalog\obj\Debug\net6.0\ref\00_Repetition.ProductCatalog.dll
