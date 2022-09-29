@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "01_Communication.WPF/1.0.0": {
+        "dependencies": {
+          "01_Communication.Shared": "1.0.0"
+        },
+        "runtime": {
+          "01_Communication.WPF.dll": {}
+        }
+      },
+      "01_Communication.Shared/1.0.0": {
+        "runtime": {
+          "01_Communication.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "01_Communication.WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "01_Communication.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

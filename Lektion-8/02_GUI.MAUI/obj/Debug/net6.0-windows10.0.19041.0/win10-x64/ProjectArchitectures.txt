@@ -1,0 +1,1 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\02_GUI.MAUI\02_GUI.MAUI.csproj;x64

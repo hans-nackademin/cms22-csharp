@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dbicmrj/Fsklif6ocnt4f7vxpiBun6oVC/xl/d2TPtlD+vu56RyK+1faxphvIJPEMMg5PGdoHnHCIIjFWKJG0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\CMS22\\cms22-csharp\\Lektion-9\\01_WPF.ProductCatalog\\01_WPF.ProductCatalog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

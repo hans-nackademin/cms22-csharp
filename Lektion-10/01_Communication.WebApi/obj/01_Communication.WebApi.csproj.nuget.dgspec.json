@@ -1,0 +1,145 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\CMS22\\cms22-csharp\\Lektion-10\\01_Communication.WebApi\\01_Communication.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\CMS22\\cms22-csharp\\Lektion-10\\01_Communication.Shared\\01_Communication.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\CMS22\\cms22-csharp\\Lektion-10\\01_Communication.Shared\\01_Communication.Shared.csproj",
+        "projectName": "01_Communication.Shared",
+        "projectPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\CMS22\\cms22-csharp\\Lektion-10\\01_Communication.Shared\\01_Communication.Shared.csproj",
+        "packagesPath": "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\CMS22\\cms22-csharp\\Lektion-10\\01_Communication.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HansMattin-Lassei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\CMS22\\cms22-csharp\\Lektion-10\\01_Communication.WebApi\\01_Communication.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\CMS22\\cms22-csharp\\Lektion-10\\01_Communication.WebApi\\01_Communication.WebApi.csproj",
+        "projectName": "01_Communication.WebApi",
+        "projectPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\CMS22\\cms22-csharp\\Lektion-10\\01_Communication.WebApi\\01_Communication.WebApi.csproj",
+        "packagesPath": "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\CMS22\\cms22-csharp\\Lektion-10\\01_Communication.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HansMattin-Lassei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\CMS22\\cms22-csharp\\Lektion-10\\01_Communication.Shared\\01_Communication.Shared.csproj": {
+                "projectPath": "C:\\Users\\HansMattin-Lassei\\Documents\\Utbildning\\CMS22\\cms22-csharp\\Lektion-10\\01_Communication.Shared\\01_Communication.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

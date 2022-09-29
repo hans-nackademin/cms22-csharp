@@ -1,0 +1,12 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-10\01_Communication.Shared\bin\Debug\net6.0\01_Communication.Shared.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-10\01_Communication.Shared\bin\Debug\net6.0\01_Communication.Shared.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-10\01_Communication.Shared\bin\Debug\net6.0\01_Communication.Shared.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-10\01_Communication.Shared\obj\Debug\net6.0\01_Communication.Shared.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-10\01_Communication.Shared\obj\Debug\net6.0\01_Communication.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-10\01_Communication.Shared\obj\Debug\net6.0\01_Communication.Shared.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-10\01_Communication.Shared\obj\Debug\net6.0\01_Communication.Shared.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-10\01_Communication.Shared\obj\Debug\net6.0\01_Communication.Shared.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-10\01_Communication.Shared\obj\Debug\net6.0\01_Communication.Shared.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-10\01_Communication.Shared\obj\Debug\net6.0\refint\01_Communication.Shared.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-10\01_Communication.Shared\obj\Debug\net6.0\01_Communication.Shared.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-10\01_Communication.Shared\obj\Debug\net6.0\ref\01_Communication.Shared.dll

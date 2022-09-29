@@ -1,0 +1,15 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\01_Threads.ConsoleApp\bin\Debug\net6.0\01_Threads.ConsoleApp.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\01_Threads.ConsoleApp\bin\Debug\net6.0\01_Threads.ConsoleApp.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\01_Threads.ConsoleApp\bin\Debug\net6.0\01_Threads.ConsoleApp.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\01_Threads.ConsoleApp\bin\Debug\net6.0\01_Threads.ConsoleApp.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\01_Threads.ConsoleApp\bin\Debug\net6.0\01_Threads.ConsoleApp.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\01_Threads.ConsoleApp\obj\Debug\net6.0\01_Threads.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\01_Threads.ConsoleApp\obj\Debug\net6.0\01_Threads.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\01_Threads.ConsoleApp\obj\Debug\net6.0\01_Threads.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\01_Threads.ConsoleApp\obj\Debug\net6.0\01_Threads.ConsoleApp.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\01_Threads.ConsoleApp\obj\Debug\net6.0\01_Threads.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\01_Threads.ConsoleApp\obj\Debug\net6.0\01_Threads.ConsoleApp.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\01_Threads.ConsoleApp\obj\Debug\net6.0\refint\01_Threads.ConsoleApp.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\01_Threads.ConsoleApp\obj\Debug\net6.0\01_Threads.ConsoleApp.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\01_Threads.ConsoleApp\obj\Debug\net6.0\01_Threads.ConsoleApp.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\01_Threads.ConsoleApp\obj\Debug\net6.0\ref\01_Threads.ConsoleApp.dll

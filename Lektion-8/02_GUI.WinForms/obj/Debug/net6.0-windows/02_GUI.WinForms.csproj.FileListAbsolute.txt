@@ -1,0 +1,17 @@
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\02_GUI.WinForms\bin\Debug\net6.0-windows\02_GUI.WinForms.exe
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\02_GUI.WinForms\bin\Debug\net6.0-windows\02_GUI.WinForms.deps.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\02_GUI.WinForms\bin\Debug\net6.0-windows\02_GUI.WinForms.runtimeconfig.json
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\02_GUI.WinForms\bin\Debug\net6.0-windows\02_GUI.WinForms.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\02_GUI.WinForms\bin\Debug\net6.0-windows\02_GUI.WinForms.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\02_GUI.WinForms\obj\Debug\net6.0-windows\02_GUI.WinForms.csproj.AssemblyReference.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\02_GUI.WinForms\obj\Debug\net6.0-windows\_02_GUI.WinForms.Form1.resources
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\02_GUI.WinForms\obj\Debug\net6.0-windows\02_GUI.WinForms.csproj.GenerateResource.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\02_GUI.WinForms\obj\Debug\net6.0-windows\02_GUI.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\02_GUI.WinForms\obj\Debug\net6.0-windows\02_GUI.WinForms.AssemblyInfoInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\02_GUI.WinForms\obj\Debug\net6.0-windows\02_GUI.WinForms.AssemblyInfo.cs
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\02_GUI.WinForms\obj\Debug\net6.0-windows\02_GUI.WinForms.csproj.CoreCompileInputs.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\02_GUI.WinForms\obj\Debug\net6.0-windows\02_GUI.WinForms.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\02_GUI.WinForms\obj\Debug\net6.0-windows\refint\02_GUI.WinForms.dll
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\02_GUI.WinForms\obj\Debug\net6.0-windows\02_GUI.WinForms.pdb
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\02_GUI.WinForms\obj\Debug\net6.0-windows\02_GUI.WinForms.genruntimeconfig.cache
+C:\Users\HansMattin-Lassei\Documents\Utbildning\CMS22\cms22-csharp\Lektion-8\02_GUI.WinForms\obj\Debug\net6.0-windows\ref\02_GUI.WinForms.dll

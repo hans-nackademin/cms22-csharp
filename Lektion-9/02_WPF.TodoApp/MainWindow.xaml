@@ -1,0 +1,31 @@
+﻿<Window x:Class="_02_WPF.TodoApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_02_WPF.TodoApp"
+        mc:Ignorable="d"
+        Title="Todo App" Height="500" Width="350">
+    
+    <Grid  Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0">
+            <Label Content="Ange aktivitet:" FontSize="9" Foreground="#787878" />
+            <TextBox x:Name="tbActivityName" Padding="5"  FontSize="12" />
+            <Button x:Name="btnAdd" Margin="0 10" Padding="5" Content="Lägg till Aktivitet" Click="btnAdd_Click" />
+        </StackPanel>
+
+        <ListView Grid.Row="1"></ListView>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal">
+            <TextBlock FontSize="8" Text="Status: " />
+            <TextBlock x:Name="tblockStatusMessage" FontSize="8" Margin="10 0 0 0" />
+        </StackPanel>
+        
+    </Grid>
+</Window>

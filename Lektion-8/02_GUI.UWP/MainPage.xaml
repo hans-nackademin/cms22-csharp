@@ -1,0 +1,35 @@
+﻿<Page
+    x:Class="_02_GUI.UWP.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:_02_GUI.UWP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}"
+    Height="200"
+    Width="300"
+    >
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0">
+            <Button HorizontalAlignment="Stretch" x:Name="btnBlockingCode" Content="Blocking Code" Padding="10" Margin="0 10 0 5" Click="btnBlockingCode_Click" />
+            <Button HorizontalAlignment="Stretch" x:Name="btnNonBlockingCode" Content="Non-Blocking Code" Padding="10" Margin="0 5 0 10" Click="btnNonBlockingCode_Click" />
+        </StackPanel>
+
+        <TextBlock 
+            x:Name="tblockStatus"
+            Grid.Row="1" 
+            HorizontalAlignment="Center"
+            VerticalAlignment="Center"
+            FontSize="11"
+            FontFamily="Roboto"
+            />
+
+    </Grid>
+</Page>

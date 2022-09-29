@@ -1,0 +1,34 @@
+﻿<Window x:Class="_01_WPF.ProductCatalog.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_01_WPF.ProductCatalog"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="350
+        ">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0">
+            <TextBox x:Name="tbProductName" Padding="5" Margin="0 0 0 10" />
+            <TextBox x:Name="tbProductPrice" Padding="5" Margin="0 0 0 10" />
+            <Button  x:Name="btnAdd" Padding="5" Content="Add Product" Click="btnAdd_Click" />
+        </StackPanel>
+
+        <ListView x:Name="lvProducts" Grid.Row="1" Margin="0 40 0 0">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Name}" />
+                        <TextBlock Margin="10 0 0 0" Text="{Binding Price}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </Grid>
+</Window>

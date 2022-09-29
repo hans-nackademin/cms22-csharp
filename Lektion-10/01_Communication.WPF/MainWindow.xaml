@@ -1,0 +1,26 @@
+﻿<Window x:Class="_01_Communication.WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_01_Communication.WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="440" Width="300">
+    
+    <Grid Margin="20">
+        <StackPanel>
+            <TextBlock Text="Förnamn" Style="{StaticResource label}" />
+            <TextBox x:Name="tbFirstName" Style="{StaticResource field}" />
+            <TextBlock Text="Efternamn" Style="{StaticResource label}" />
+            <TextBox x:Name="tbLastName" Style="{StaticResource field}" />
+            <TextBlock Text="Adress" Style="{StaticResource label}" />
+            <TextBox x:Name="tbStreetName" Style="{StaticResource field}" />
+            <TextBlock Text="Postnummer" Style="{StaticResource label}" />
+            <TextBox x:Name="tbPostalCode" Style="{StaticResource field}" />
+            <TextBlock Text="Stad" Style="{StaticResource label}" />
+            <TextBox x:Name="tbCity" Style="{StaticResource field}" />
+            
+            <Button x:Name="btnSend" Click="btnSend_Click" Content="Skicka" Style="{StaticResource button}" />
+        </StackPanel>
+    </Grid>
+</Window>
